@@ -32,12 +32,7 @@ This project is a classification problem. The data collected is over a chain of 
   - Competition store
   - Performance
 
-## Needs of this project
 
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
 
 
 
